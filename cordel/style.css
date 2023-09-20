@@ -1,0 +1,140 @@
+/* verificar o */
+*{
+  margin-left: auto;
+
+}
+
+header {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-top:auto;
+  margin-right: -7px;
+  padding-right: 10px;
+  }
+  
+  h1 {
+  text-align: center;
+  padding-top: 50px;
+  margin-top: -8px;
+  font-family: Passion One;
+  font-size: 8vw;
+  font-variant: small-caps;
+  margin-bottom: 30px;
+  }
+
+  
+  
+  #autor {
+  text-align: center;
+  height:10px;
+  position: relative;
+  top: -35px;
+  font-family: Verdana;
+  font-size: 13px;
+ font-weight: bolder;
+  }
+  
+  .estrofe {
+  padding-top: 85px;
+  padding-left: 10px;
+  font-family: Sriracha;
+  font-size: 300%;
+  color: black;
+ 
+  }
+  
+  a {
+  font-family:Verdana;
+  color: white;
+  font-size: 12px;
+  text-decoration: none;
+  }
+  
+  a:hover {
+  text-decoration: underline;
+  
+  
+  }
+  
+  body {
+  
+    background-color: white;
+  
+  
+  }
+  
+  #joaninha{
+   margin-right:30%;
+    background-color: #000900a6;
+    
+    color: white;
+padding-left: 10px;
+display: inline-block;
+
+
+  }
+  
+  .versoPB {
+  background-color: white;
+  background-size: 100% 100%;
+  margin-top: -60px;
+  margin-right: -8px;
+  padding-bottom: 100px;
+ 
+  }
+  
+  .versoIMGjoana{ 
+    background-color: black;
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: url(imagens/background001.jpg);
+  padding-bottom: 10px;
+padding-top: 0px;
+font-size: 1vw;
+background-position: right center;
+  }
+  
+  .versoIMGlivro {
+      background-color: black;
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: url(imagens/background002.jpg);
+  padding-bottom: 10px;
+padding-top: 10px;
+font-size: 1vw;
+background-position: right center;
+  
+  
+  }
+  
+  #livro {
+  
+    margin-right:60%;
+    background-color: #000900a6;
+    height: 100%;
+    color: white;
+padding-left: 10px;
+
+  }
+  
+  footer {
+  background-color: black;
+  text-align: center;
+  
+  
+  
+  
+  }
+  .rodapé {
+  color: white;
+  text-align: center;
+  font-weight: normal;
+  }
+  
+  p {
+  color: white;
+  font-weight: normal;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  }
